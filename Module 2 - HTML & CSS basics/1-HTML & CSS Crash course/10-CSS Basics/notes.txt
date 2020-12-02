@@ -1,0 +1,4 @@
+font-size: Set the font size
+color: Change the color of the text
+background-color: Set the background color
+text-align: Align the text to left, center or right
